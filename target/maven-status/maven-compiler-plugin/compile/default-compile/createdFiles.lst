@@ -1,0 +1,6 @@
+ru\aplana\steps\BaseSteps.class
+ru\aplana\page\MainPage.class
+ru\aplana\util\TestProperties.class
+ru\aplana\page\BasePage.class
+ru\aplana\steps\MainSteps.class
+ru\aplana\steps\CucumberSteps.class
